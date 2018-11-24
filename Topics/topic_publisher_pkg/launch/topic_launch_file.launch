@@ -1,0 +1,6 @@
+<launch>
+    <!-- Topic package launch file -->
+    <node pkg = "topic_publisher_pkg" 
+        type="topic_publisher" name="Node2" output="screen">
+    </node>
+</launch>

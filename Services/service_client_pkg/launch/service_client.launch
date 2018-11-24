@@ -1,0 +1,6 @@
+<launch>
+    <node pkg = "service_client_pkg" 
+        type="simple_service" name="ServiceClient" output="screen">
+    </node>
+    
+</launch>

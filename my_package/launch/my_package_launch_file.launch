@@ -1,0 +1,5 @@
+<launch>
+    <!-- My first package launch file -->
+    <node pkg = "my_package" type="simple" name="FNode" output="screen">
+    </node>
+</launch>

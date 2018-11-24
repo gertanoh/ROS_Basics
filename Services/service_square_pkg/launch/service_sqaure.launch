@@ -1,0 +1,6 @@
+<launch>
+    <!-- Square project package launch file -->
+    <node pkg = "service_square_pkg" 
+        type="project_square" name="BB8" output="screen">
+    </node>
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+    <!-- Action server package launch file -->
+    <node pkg = "action_server_square_pkg" 
+        type="action_square" name="MoveSquare" output="screen">
+    </node>
+</launch>

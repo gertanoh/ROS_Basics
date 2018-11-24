@@ -1,0 +1,5 @@
+<launch>
+    <!-- Action package launch file -->
+    <node pkg = "action_client_pkg" type="ardrone_action" name="FNode" output="screen">
+    </node>
+</launch>

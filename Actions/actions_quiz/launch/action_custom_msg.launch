@@ -1,0 +1,5 @@
+<launch>
+    <!-- Action Server package launch file -->
+    <node pkg = "actions_quiz" type="action_server" name="Server" output="screen">
+    </node>
+</launch>

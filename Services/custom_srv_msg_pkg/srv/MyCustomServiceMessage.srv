@@ -1,0 +1,6 @@
+float64 radius      # radius of square
+int32 repetitions   # #times robot has done the square movement
+
+---
+
+bool success         # sucess

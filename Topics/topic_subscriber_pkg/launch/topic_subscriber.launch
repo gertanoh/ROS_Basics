@@ -1,0 +1,6 @@
+<launch>
+    <!-- Topic subscriber package launch file -->
+    <node pkg = "topic_subscriber_pkg" 
+        type="topic_subscriber" name="Node3" output="screen">
+    </node>
+</launch>

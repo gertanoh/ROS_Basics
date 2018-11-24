@@ -1,0 +1,11 @@
+<launch>
+    
+    <!-- <include file="start_bb8_move_in_square_server.launch"/> -->
+        
+    <node pkg="service_square_pkg"
+        type="bb8_move_in_square_client"
+        name="BB8_Square"
+        output="screen">
+    </node>
+    
+</launch>

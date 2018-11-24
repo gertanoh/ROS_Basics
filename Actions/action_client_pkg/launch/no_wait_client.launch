@@ -1,0 +1,6 @@
+<launch>
+    <!-- Action package launch file -->
+    <node pkg = "action_client_pkg" type="no_wait_for_result_test" 
+    name="No_Wait" output="screen">
+    </node>
+</launch>

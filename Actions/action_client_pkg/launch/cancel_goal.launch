@@ -1,0 +1,6 @@
+<launch>
+    <!-- Cancel Goal  launch file -->
+    <node pkg = "action_client_pkg" type="cancel_goal_test" 
+    name="Cancel" output="screen">
+    </node>
+</launch>

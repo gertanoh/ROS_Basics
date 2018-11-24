@@ -1,0 +1,5 @@
+<launch>
+    <!-- Custom Service  launch file -->
+    <node pkg = "custom_srv_msg_pkg" type="custom_service" name="FNode" output="screen">
+    </node>
+</launch>
